@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "AuraVerse - Your Spiritual Journey",
   description: "Track your aura points and chakra alignment through positive karma actions",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
